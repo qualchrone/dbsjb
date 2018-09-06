@@ -1,2 +1,2 @@
 # dbsjb
-DBS by Indonesia Jailbreak Detection Bypass
+Bypass DBS by Indonesia Jailbreak Detection
